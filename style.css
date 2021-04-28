@@ -1,0 +1,17 @@
+h1{
+   margin:10px;
+}
+p{
+	color:red;
+}
+
+img,a{
+	border:black dotted 1px;
+}
+
+
+
+.header{
+	color:green;
+	display:flex;
+}
